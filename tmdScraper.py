@@ -2,11 +2,11 @@ from time import sleep
 import tweepy
 import json
 
-consumer_key2="AiyQbVyTd0XxAm5lZGCJL2taN"
-consumer_secret2="y6mKZOEKb7rgcUuSa0pVGhDq4ixJDNPwQ72jEo8pKAd4vthQiD"
+consumer_key2=""
+consumer_secret2=""
 
-access_token2="475287853-dZIrNgDaXPYUXqQJTPlEAJvUwWr8eCnXOvw0EOZg"
-access_token_secret2="4tWl52rLOeBUu2Rdu0zKWbO9H25x0OsNV78xn7cS9VYFu"
+access_token2=""
+access_token_secret2=""
 
 auth = tweepy.OAuthHandler(consumer_key2, consumer_secret2)
 auth.secure = True
